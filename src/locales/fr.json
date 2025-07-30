@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "pricing": "Tarification",
+    "about": "À propos",
+    "login": "Connexion",
+    "register": "Inscrire ton École"
+  },
+  "hero": {
+    "subtitle": "Avec EDUCONNECT",
+    "title": "Gérez vos écoles comme un(e) pro !",
+    "text": "Centralisez la gestion des étudiants, enseignants et cours. Une solution tout-en-un pour établissements modernes.",
+    "connect": "Se connecter",
+    "demo": "Voir une démo"
+  }
+}

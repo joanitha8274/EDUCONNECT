@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "login": "Login",
+    "register": "Register Your School"
+  },
+  "hero": {
+    "subtitle": "With EDUCONNECT",
+    "title": "Manage your schools like a pro!",
+    "text": "Centralize student, teacher, and course management. An all-in-one solution for modern institutions.",
+    "connect": "Login",
+    "demo": "See a demo"
+  }
+}

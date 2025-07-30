@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* tailwind.config.js (optional, sinon juste ajouter dans className directement) */
+.input {
+  @apply border border-gray-300 rounded px-4 py-2 w-full;
+}
+
