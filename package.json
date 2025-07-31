@@ -1,4 +1,5 @@
 {
+  "homepage": "https://joanitha8274.github.io/EDUCONNECT",
   "name": "educonnect-vite",
   "version": "1.0.0",
   "private": true,
@@ -6,7 +7,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
@@ -23,6 +26,7 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.6.0",
     "autoprefixer": "^10.4.14",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.2",
     "vite": "^4.4.9"
